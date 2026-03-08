@@ -141,4 +141,4 @@ Untuk meningkatkan akurasi analisis risiko kesehatan, penelitian selanjutnya dap
 
 Slide presentasi lengkap dari project ini dapat dilihat pada link berikut:
 
-🔗 [View Presentation]([https://www.canva.com/design/DAHAov_DyOg/AoL9JnlyYCqCWEZKTOsDSA/edit?utm_content=DAHAov_DyOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+🔗 [View Presentation](https://www.canva.com/design/DAHAov_DyOg/AoL9JnlyYCqCWEZKTOsDSA/edit?utm_content=DAHAov_DyOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
